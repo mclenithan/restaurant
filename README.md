@@ -12,7 +12,7 @@ A decent js slider (will be improved), a live twitter feed with search and strea
 
 ## Does it work?  Seriously, I looked at your code, its kind of ugly...
 
-Yes it works!  I am not the greatest Dev but I will continue to make it better. I could use some help... and a job... with better Devs who will buy me a new computer and teach me the secrets of life through programming.  I live in LA :)
+Yes it works! but I will continue to make it better. I could use some help... and a job... with better Devs who will buy me a new computer and teach me the secrets of life through programming.  I live in LA :)
 
 Name: Patrick McLenitham
 Email: patrick.mclenithan@gmail.com
