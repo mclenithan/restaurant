@@ -32,10 +32,10 @@ var entry = mongoose.model('entry', mailer);
 
 //here you need to put in all your twitter credentials, get them from the dev twitter website
 var twit = new twitter({
-  consumer_key: 'Put in your own vaule here',
-  consumer_secret: 'Put in your own vaule here',
-  access_token_key: 'Put in your own vaule here',
-  access_token_secret: 'Put in your own vaule here'
+  consumer_key: 'Your info here',
+  consumer_secret: 'Your info here',
+  access_token_key: 'Your info here',
+  access_token_secret: 'Your info here'
 });
 
 //all the config...

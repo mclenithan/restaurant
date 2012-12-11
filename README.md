@@ -14,5 +14,7 @@ A decent js slider (will be improved), a live twitter feed with search and strea
 
 Yes it works! but I will continue to make it better. I could use some help... and a job... with better Devs who will buy me a new computer and teach me the secrets of life through programming.  I live in LA :)
 
+Demo here:  (database not connected) http://powerful-savannah-7786.herokuapp.com/
+
 Name: Patrick McLenitham
 Email: patrick.mclenithan@gmail.com
